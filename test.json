@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/DGRonpa/CodeQL_test/main/123'><img src onerror=alert(document.location)>",
+    "url": 'https://raw.githubusercontent.com/DGRonpa/CodeQL_test/main/123"><img src onerror=alert(document.location)>',
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/DGRonpa/CodeQL_test/main/123'><img src onerror=alert(document.location)>",
-            "name": "Foo"
+            "url": 'https://raw.githubusercontent.com/DGRonpa/CodeQL_test/main/123"><img src onerror=alert(document.location)>',
+            "name": 'Foo'
         }
     ]
 }
