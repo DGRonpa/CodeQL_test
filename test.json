@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/DGRonpa/CodeQL_test/blob/main/<img src onerror=alert(document.location)>.yaml",
+    "url": "https://raw.githubusercontent.com/DGRonpa/CodeQL_test/main/<img src onerror=alert(document.location)>",
     "urls": [
         {
-            "url": "https://github.com/DGRonpa/CodeQL_test/blob/main/<img src onerror=alert(document.location)>.yaml",
+            "url": "https://raw.githubusercontent.com/DGRonpa/CodeQL_test/main/<img src onerror=alert(document.location)>",
             "name": "Foo"
         }
     ]
